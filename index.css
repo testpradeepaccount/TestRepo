@@ -1,0 +1,23 @@
+div{
+    border:2px solid red;
+    color:blue;
+    font-size: 70px;
+    font-weight: bold;
+}
+
+#division1{
+    color:green;
+}
+
+img{
+    width: 400px;
+    height:400px;
+}
+
+.outerdiv{
+    display: flex;
+}
+
+.div2{
+    color:greenyellow;
+}
